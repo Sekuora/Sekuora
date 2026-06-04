@@ -1,4 +1,9 @@
-## Hi there 👋
+## Code Vibes Me
+
+https://github.com/user-attachments/assets/13dd21f9-a12c-434f-a828-fb0bd6c5acd1
+
+
+
 
 <!--
 **Sekuora/Sekuora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
