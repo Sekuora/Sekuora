@@ -39,9 +39,6 @@
       <img alt="Python Badge" src="https://img.shields.io/badge/Python-logo?style=for-the-badge&logo=python&logoColor=%23000000&logoSize=auto&color=%23f5f5f5">
     </a>
 
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noopener noreferrer">
-      <img alt="C# Badge" src="https://img.shields.io/badge/C%23-logo?style=for-the-badge&logo=csharp&logoColor=%23000000&logoSize=auto&color=%23f5f5f5">
-    </a>
 
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
       <img alt="Unity Badge" src="https://img.shields.io/badge/Unity-logo?style=for-the-badge&logo=unity&logoColor=%23000000&logoSize=auto&color=%23f5f5f5">
