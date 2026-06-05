@@ -11,11 +11,29 @@
   <h2> Slash Project | Unreal Engine 5</h2>
   <img width="960" height="540" alt="unreal_engine_c_programmingreel_-_nino_ibarra_v1540p-ezgif com-video-to-webp-converter (2)" src="https://github.com/user-attachments/assets/bf218c59-38a0-43b0-b072-5fb457a2cafb" />
 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+ <br>
 
+  
+
+  <h2> Love Arena Survivors | Unreal Engine 5</h2>
+<img width="960" height="540" alt="lovearenasurvivors" src="https://github.com/user-attachments/assets/37553b70-68ec-45c9-8ee4-d4fd4c12be4c" />
+
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
 
   <h2>Floaty | Extension for Blender</h2>
-  <video src="https://github.com/user-attachments/assets/0eb0b4ea-85b4-4549-b669-8e6efbd84d64" autoplay loop muted playsinline width="80%"></video>
+ <img width="1920" height="1080" alt="2026-05-29 16-56-03" src="https://github.com/user-attachments/assets/ee4a7c50-9876-453c-8a38-c17b23570ac0" />
+
   
   
   ---
