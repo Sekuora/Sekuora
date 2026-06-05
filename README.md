@@ -8,9 +8,9 @@
 
   ---
 
+  <h2> Slash Project | Unreal Engine 5</h2>
+  <img width="960" height="540" alt="unreal_engine_c_programmingreel_-_nino_ibarra_v1540p-ezgif com-video-to-webp-converter (2)" src="https://github.com/user-attachments/assets/bf218c59-38a0-43b0-b072-5fb457a2cafb" />
 
-  <h2>Programming Reel | Unreal Engine 5</h2>
-  <video src="https://github.com/user-attachments/assets/021c04dc-3848-439e-8bbe-335d277e654c" autoplay loop muted playsinline width="80%"></video>
 
   <br>
 
