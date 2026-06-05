@@ -2,11 +2,6 @@
 
   <h1>👋🏻 Hello, I'm Sekuora</h1>
 
-
-
-  
-  <img alt="Profile Cover" width="100%" src="https://github.com/user-attachments/assets/0c915659-7051-485a-89d6-ea6d2d0dffe3" />
-
   <p>
     🎮 I'm currently making a video game using <strong><em>Blender</em></strong> and <strong><em>Unity</em></strong>.<br>
     🔨 I'm also developing tools and addons for Blender to improve my workflow and I'll share them here as part of my portfolio.
