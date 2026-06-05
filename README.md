@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>👋🏻 Hello, I'm Sekuora</h1>
-
   <p>
     🎮 I'm currently making a video game using <strong><em>Blender</em></strong> and <strong><em>Unity</em></strong>.<br>
     🔨 I'm also developing tools and addons for Blender to improve my workflow and I share them here as part of my portfolio.
