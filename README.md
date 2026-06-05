@@ -48,6 +48,10 @@
       <img alt="Unreal Engine Badge" src="https://img.shields.io/badge/Unreal_Engine-logo?style=for-the-badge&logo=unrealengine&logoColor=%23000000&logoSize=auto&color=%23f5f5f5">
     </a>
 
+  <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="Blender Badge" src="https://img.shields.io/badge/Blender-logo?style=for-the-badge&logo=blender&logoColor=%23000000&logoSize=auto&color=%23f5f5f5">
+  </a>
+
   </div>
 
 </div>
