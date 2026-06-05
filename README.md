@@ -7,6 +7,8 @@
     🔨 I'm also developing tools and addons for Blender to improve my workflow and I share them here as part of my portfolio.
   </p>
 
+  ---
+
   <br>
   <br>
 
@@ -14,13 +16,12 @@
   <video src="https://github.com/user-attachments/assets/021c04dc-3848-439e-8bbe-335d277e654c" autoplay loop muted playsinline width="80%"></video>
 
   <br>
-  <br>
 
   <h2>Floaty | Extension for Blender</h2>
   <video src="https://github.com/user-attachments/assets/0eb0b4ea-85b4-4549-b669-8e6efbd84d64" autoplay loop muted playsinline width="80%"></video>
   
-  <br>
-  <br>
+  
+  ---
 
   <h3> Tools and Software </h3>
 
@@ -58,6 +59,8 @@
 
   </div>
 
+  <br>
+  
    <h3> Social Media </h3>
   
   <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
