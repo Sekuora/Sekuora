@@ -4,7 +4,7 @@
 
   <p>
     🎮 I'm currently making a video game using <strong><em>Blender</em></strong> and <strong><em>Unity</em></strong>.<br>
-    🔨 I'm also developing tools and addons for Blender to improve my workflow and I'll share them here as part of my portfolio.
+    🔨 I'm also developing tools and addons for Blender to improve my workflow and I share them here as part of my portfolio.
   </p>
 
   
