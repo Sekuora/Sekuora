@@ -3,13 +3,11 @@
   <h1>👋🏻 Hello, I'm Sekuora</h1>
   <p>
     🎮 I'm currently making a video game using <strong><em>Blender</em></strong> and <strong><em>Unity</em></strong>.<br>
-    🔨 I'm also developing tools and addons for Blender to improve my workflow and I share them here as part of my portfolio.
+    🔨 I'm also developing tools and addons for Blender to improve my workflow, and I share them here as part of my portfolio.
   </p>
 
   ---
 
-  <br>
-  <br>
 
   <h2>Programming Reel | Unreal Engine 5</h2>
   <video src="https://github.com/user-attachments/assets/021c04dc-3848-439e-8bbe-335d277e654c" autoplay loop muted playsinline width="80%"></video>
