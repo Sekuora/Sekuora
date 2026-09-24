@@ -63,10 +63,6 @@
    <h3> Social Media </h3>
   
   <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
-    
-  <a href="https://www.instagram.com/sekuora/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 
   <a href="https://ko-fi.com/sekuora" target="_blank" rel="noopener noreferrer">
     <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white">
