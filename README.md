@@ -88,13 +88,7 @@
     <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-Sekuora-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
-  <a href="https://www.youtube.com/@Sekuora" target="_blank" rel="noopener noreferrer">
-    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzpxc7QzpZpr944_9tBvNWg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000">
-  </a>
 
-  <a href="https://www.youtube.com/@Sekuora" target="_blank" rel="noopener noreferrer">
-    <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCzpxc7QzpZpr944_9tBvNWg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000">
-  </a>
 
   </div>
   </div>
