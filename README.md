@@ -19,22 +19,6 @@
  <br>
 
   
-
-  <h2> Love Arena Survivors | Unreal Engine 5</h2>
-<img width="960" height="540" alt="lovearenasurvivors" src="https://github.com/user-attachments/assets/37553b70-68ec-45c9-8ee4-d4fd4c12be4c" />
-
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  <h2>Floaty | Extension for Blender</h2>
- <img width="1920" height="1080" alt="2026-05-29 16-56-03" src="https://github.com/user-attachments/assets/ee4a7c50-9876-453c-8a38-c17b23570ac0" />
-
-  
   
   ---
 
